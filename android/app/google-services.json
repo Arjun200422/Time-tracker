@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140149499548",
+    "project_id": "time-tracker-1c6d8",
+    "storage_bucket": "time-tracker-1c6d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140149499548:android:f585acef3f96e30a09af59",
+        "android_client_info": {
+          "package_name": "com.arjun.time_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7H_3bsr8mqYa1IBiW9AJQXHkf6z7fU0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140149499548:android:5cc0cf1ee5d8860f09af59",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7H_3bsr8mqYa1IBiW9AJQXHkf6z7fU0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
